@@ -158,8 +158,7 @@
       "Year": 2024,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Quick Slash", "Dashmaster", "Mark of Pride"],
-      "MainSpells": ["Shade Soul", "Descending Dark"],
-      "Notes": "Connu pour ses exécutions extrêmement propres et son routing parfait. Utilise intensément le pogo sur Hornet."
+      "MainSpells": ["Shade Soul", "Descending Dark"]
     },
     {
       "Name": "Haelor",
@@ -169,8 +168,7 @@
       "Year": 2023,
       "Version": "1.5.68",
       "MainCharmsUsed": ["Unbreakable Strength", "Shaman Stone", "Grubberfly's Elegy"],
-      "MainSpells": ["Abyss Shriek", "Descending Dark"],
-      "Notes": "Run complet avec tous les charmes, boss, masques et fragments. Très technique sur Path of Pain."
+      "MainSpells": ["Abyss Shriek", "Descending Dark"]
     },
     {
       "Name": "Pestilence",
@@ -180,8 +178,7 @@
       "Year": 2024,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Fury of the Fallen"],
-      "MainSpells": ["Vengeful Spirit"],
-      "Notes": "Utilise Fury of the Fallen et Dashmaster pour maintenir le mode low health permanent."
+      "MainSpells": ["Vengeful Spirit"]
     },
     {
       "Name": "Mossbag",
@@ -191,8 +188,7 @@
       "Year": 2022,
       "Version": "1.4.3",
       "MainCharmsUsed": ["Quick Slash"],
-      "MainSpells": ["Vengeful Spirit"],
-      "Notes": "Run plus humoristique mais techniquement impressionnant avec skip du Radiance fight via glitch Dreamgate."
+      "MainSpells": ["Vengeful Spirit"]
     },
     {
       "Name": "ShinyPika",
@@ -202,8 +198,7 @@
       "Year": 2024,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Grubsong", "Unbreakable Strength", "Mark of Pride"],
-      "MainSpells": ["Shade Soul", "Howling Wraiths"],
-      "Notes": "Run True Ending propre avec optimisation des transitions entre zones. Spécialiste des splits rapides sur Deepnest."
+      "MainSpells": ["Shade Soul", "Howling Wraiths"]
     },
     {
       "Name": "TGD_Ryuko",
@@ -213,8 +208,7 @@
       "Year": 2025,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Quick Focus", "Hiveblood", "Sharp Shadow"],
-      "MainSpells": ["Descending Dark"],
-      "Notes": "Connu pour son contrôle incroyable dans Godhome. Spécialiste du Pantheon of Hallownest sans hit."
+      "MainSpells": ["Descending Dark"]
     },
     {
       "Name": "AceFable",
@@ -224,8 +218,7 @@
       "Year": 2023,
       "Version": "1.5.68",
       "MainCharmsUsed": ["Hiveblood", "Unbreakable Strength"],
-      "MainSpells": ["Descending Dark", "Shade Soul"],
-      "Notes": "Run sans mort complet, connu pour son sang-froid dans Radiance fight et sa gestion parfaite de soul."
+      "MainSpells": ["Descending Dark", "Shade Soul"]
     },
     {
       "Name": "Zanvious",
@@ -235,8 +228,7 @@
       "Year": 2024,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Unbreakable Strength", "Quick Slash", "Shaman Stone"],
-      "MainSpells": ["Abyss Shriek", "Descending Dark"],
-      "Notes": "Focus sur l’optimisation des combats. Très utile pour mesurer la difficulté de chaque boss."
+      "MainSpells": ["Abyss Shriek", "Descending Dark"]
     },
     {
       "Name": "TheGreatNailSage",
@@ -246,8 +238,7 @@
       "Year": 2025,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Mark of Pride", "Quick Slash"],
-      "MainSpells": ["Shade Soul"],
-      "Notes": "Run basé sur la maîtrise des Nail Arts (Great Slash / Dash Slash)."
+      "MainSpells": ["Shade Soul"]
     },
     {
       "Name": "Kiwi",
@@ -257,8 +248,7 @@
       "Year": 2024,
       "Version": "1.5.78",
       "MainCharmsUsed": ["Shaman Stone", "Quick Focus"],
-      "MainSpells": ["Abyss Shriek", "Descending Dark"],
-      "Notes": "Run Dream Warriors et Boss Dreams complet. Référence pour évaluer la puissance des sorts Shaman Stone."
+      "MainSpells": ["Abyss Shriek", "Descending Dark"]
     }
   ]
 }
